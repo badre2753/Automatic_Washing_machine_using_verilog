@@ -1,4 +1,4 @@
-# Automatic Washing Machine Using FSM
+# Automatic Washing Machine Using Verilog on VIVADO
 
 ## Introduction
 Various day-to-day life systems can be represented using a Finite State Machine (FSM), and an automated washing machine is one of the best examples. FSM is a theoretical model used in digital electronics and computer systems where the machine can exist in only one state at a particular instant of time. The machine changes from one state to another depending on given inputs, and this process is known as state transition.
